@@ -1,0 +1,5 @@
+dao/DaoImpl.class
+metier/MetierImpl.class
+metier/IMetier.class
+dao/IDao.class
+presentation/Presentation2.class
